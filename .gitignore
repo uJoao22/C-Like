@@ -1,0 +1,13 @@
+/.metadata/
+
+C#/bin/
+C#/obj/
+C#/*.csproj
+
+Java/.settings/
+Java/bin/
+Java/.classpath
+Java/.project
+
+Documento.pdf
+Documento.docx
